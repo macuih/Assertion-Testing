@@ -1,0 +1,7 @@
+truffle develop
+compile
+migrate --reset
+test
+
+Needed to install truffle:
+sudo npm install -g truffle
